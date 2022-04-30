@@ -6,6 +6,10 @@ header {
     border-radius: 30px 30px 30px 30px;
 }
 
+a {
+   color: #2EEFAF;  
+}
+
 /* Default. One colum. */
 main {
 	max-width: 767px;
